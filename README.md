@@ -1,6 +1,6 @@
 # [SDF01] Jay-Dee's First Repo 🚀
 
-# 👋 Hallo World, I'm Jay-Dee Daniels 😎😊
+# 👋 Hello World, I'm Jay-Dee Daniels 😎😊
 
 🌱 Beginner Software Developer | 🚀 Excited And Nervous To Start My Coding Journey! 🎶🕺💃
 
@@ -11,7 +11,7 @@
 - 💡 I'm currently studying through CodeSpace, and loving it. 👩🏽‍🎓
 - 🎓 My coach Sasha is so awesome! (Look at me being the teachers pet) 🐶🐱
 - 🤖 I've always been intrigued by Software Development and know it's the future! 🤩🤩🤩🤩
-- 🔥 Looking forward to becoming one of the worlds best programmers! 🎇🎆🎉🎊✨
+- 🔥 Looking forward to becoming one of the world's best programmers! 🎇🎆🎉🎊✨
 
 ---
 
@@ -59,7 +59,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📚 Learning Goals
 
 - 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript and then I will do the specialise courses for JS and PHP!!!!!!! 🤴🏽😃😉
+- 🎨 Learn HTML, CSS, and JavaScript and then I will do the specialisation courses for JS and PHP!!!!!!! 🤴🏽😃😉
 - 💡 Build real-world projects and get employed by a Tech company!!!!!!! 🤩🤩🤩🤩
 
 ---
